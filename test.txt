@@ -1,2 +1,2 @@
-github is a powerful website.
+github is a website.
 git file could be retry.
