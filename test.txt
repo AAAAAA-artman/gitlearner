@@ -1,3 +1,4 @@
 github is a website.
 git file could be retry.
 git could create many branches.
+git merge maybe need to be commit.
