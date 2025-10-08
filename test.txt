@@ -4,3 +4,4 @@ git could create many branches, and switch fast.
 git could create many branches.
 git checkout is weird.
 git merge maybe need to be commit.
+test wrong email.
